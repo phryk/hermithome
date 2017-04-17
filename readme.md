@@ -95,3 +95,7 @@
 ## Design ##
 
 freecad is available on freebsd and supports statics analysis via calculix (which is also available on freebsd)
+
+### Sanitation ###
+    - http://toiletsforpeople.com/ 675$ + shipping?
+    - water tank. http://www.hornbach.de/shop/Kleinklaeranlagen-und-Abwassertanks/Abwassertanks/S21549/artikelliste.html
