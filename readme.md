@@ -71,6 +71,7 @@
     - Technically complex?
         - Just a bunch of latticed metal pieces, isn't it?
             - Saw + drill all that's really needed?
+            - Aaactually, way simpler is possible. Just a bunch of hunges.
         - Tricky part is probably the "outer skin"
             - Might avoid a lot of complexity by using [synthetic] textile
 
@@ -95,6 +96,8 @@
 ## Design ##
 
 freecad is available on freebsd and supports statics analysis via calculix (which is also available on freebsd)
+openfoam (no freebsd port) can simulate liquiad dynamics/soft physics. should be a great help to make shit robust enough.
+paraview (available on freebsd) can visualize the resulting data
 
 ### Sanitation ###
     - http://toiletsforpeople.com/ 675$ + shipping?
